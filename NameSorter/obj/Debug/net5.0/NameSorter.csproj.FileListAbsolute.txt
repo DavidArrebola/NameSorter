@@ -1,0 +1,16 @@
+E:\Code Test\NameSorter\bin\Debug\net5.0\NameSorter.exe
+E:\Code Test\NameSorter\bin\Debug\net5.0\NameSorter.deps.json
+E:\Code Test\NameSorter\bin\Debug\net5.0\NameSorter.runtimeconfig.json
+E:\Code Test\NameSorter\bin\Debug\net5.0\NameSorter.runtimeconfig.dev.json
+E:\Code Test\NameSorter\bin\Debug\net5.0\NameSorter.dll
+E:\Code Test\NameSorter\bin\Debug\net5.0\ref\NameSorter.dll
+E:\Code Test\NameSorter\bin\Debug\net5.0\NameSorter.pdb
+E:\Code Test\NameSorter\obj\Debug\net5.0\NameSorter.csprojAssemblyReference.cache
+E:\Code Test\NameSorter\obj\Debug\net5.0\NameSorter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Test\NameSorter\obj\Debug\net5.0\NameSorter.AssemblyInfoInputs.cache
+E:\Code Test\NameSorter\obj\Debug\net5.0\NameSorter.AssemblyInfo.cs
+E:\Code Test\NameSorter\obj\Debug\net5.0\NameSorter.csproj.CoreCompileInputs.cache
+E:\Code Test\NameSorter\obj\Debug\net5.0\NameSorter.dll
+E:\Code Test\NameSorter\obj\Debug\net5.0\ref\NameSorter.dll
+E:\Code Test\NameSorter\obj\Debug\net5.0\NameSorter.pdb
+E:\Code Test\NameSorter\obj\Debug\net5.0\NameSorter.genruntimeconfig.cache
